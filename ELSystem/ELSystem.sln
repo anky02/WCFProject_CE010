@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELSystem", "ELSystem\ELSystem.csproj", "{04AECA33-3C2F-431A-BE61-E3EDFF7F298F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApp", "ClientApp\ClientApp.csproj", "{0C4A57CA-A188-4E3C-A407-E3B3003EDE75}"
+	ProjectSection(ProjectDependencies) = postProject
+		{04AECA33-3C2F-431A-BE61-E3EDFF7F298F} = {04AECA33-3C2F-431A-BE61-E3EDFF7F298F}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04AECA33-3C2F-431A-BE61-E3EDFF7F298F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AECA33-3C2F-431A-BE61-E3EDFF7F298F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AECA33-3C2F-431A-BE61-E3EDFF7F298F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AECA33-3C2F-431A-BE61-E3EDFF7F298F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C4A57CA-A188-4E3C-A407-E3B3003EDE75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4A57CA-A188-4E3C-A407-E3B3003EDE75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C4A57CA-A188-4E3C-A407-E3B3003EDE75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C4A57CA-A188-4E3C-A407-E3B3003EDE75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FEF3DBF-F939-482E-813E-DCA20ACE0027}
+	EndGlobalSection
+EndGlobal

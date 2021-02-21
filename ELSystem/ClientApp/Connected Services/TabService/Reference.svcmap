@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="8ba6674c-4439-49e1-b7f3-bba21a315720" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/ELSystem/TabService/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="2018a91c-8162-4862-8ac8-1e371fc2e7e0" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ELSystem/TabService/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="5bd6b5c7-650f-4cb7-b3dd-5987bb734915" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ELSystem/TabService/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="9704f18c-dbb9-4ee0-ba4f-15017d6133d8" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ELSystem/TabService/mex" />
+    <MetadataFile FileName="ELSystem.xsd" MetadataType="Schema" ID="c504100d-541c-4fe3-b540-c3c95e5c2647" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ELSystem/TabService/mex" />
+    <MetadataFile FileName="service2.xsd" MetadataType="Schema" ID="6627b815-4b9d-4676-ae6e-70a32767dcbe" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ELSystem/TabService/mex" />
+    <MetadataFile FileName="Arrays.xsd" MetadataType="Schema" ID="40463972-78d9-4de0-9172-c8ddb3d9a99c" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ELSystem/TabService/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,7 @@
+D:\ELSystem\ELSystem\bin\Debug\ELSystem.dll.config
+D:\ELSystem\ELSystem\bin\Debug\ELSystem.dll
+D:\ELSystem\ELSystem\bin\Debug\ELSystem.pdb
+D:\ELSystem\ELSystem\obj\Debug\ELSystem.csprojAssemblyReference.cache
+D:\ELSystem\ELSystem\obj\Debug\ELSystem.csproj.CoreCompileInputs.cache
+D:\ELSystem\ELSystem\obj\Debug\ELSystem.dll
+D:\ELSystem\ELSystem\obj\Debug\ELSystem.pdb
